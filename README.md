@@ -36,5 +36,5 @@ Once all packages have been installed the application can be started by using ``
 - [Mongoose documentation](https://mongoosejs.com/docs/validation.html)
 
 ## Demonstration
-The application demo video can be watched at this link: 
+The application demo video can be watched at this link: https://www.youtube.com/watch?v=XrJd7QD7de8
 
