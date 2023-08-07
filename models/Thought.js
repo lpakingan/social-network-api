@@ -1,4 +1,4 @@
-const { Schema, model } = require("mongoose");
+const { Schema, Types, model } = require("mongoose");
 // use dayjs for formatting the date queries
 const dayjs = require("dayjs");
 
