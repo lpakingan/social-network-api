@@ -1,0 +1,6 @@
+const { connect, connection } = require("mongoose");
+
+// connect to the specified mongodb database
+connect("mongodb://127.0.0.1:27017/userThoughts");
+
+module.exports = connection;
